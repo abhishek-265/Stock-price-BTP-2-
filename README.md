@@ -1,1 +1,1 @@
-# Stock-price-BTP-2-
+# Share price prediction of major oil company using ensemble learning
